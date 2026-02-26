@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "シンガーホープライター",
+  "base_artist": "moki",
+  "createdAt": "2026-02-26T11:12:10.249665Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シンガーホープライター",
+      "artist": "moki",
+      "has_synced": false,
+      "path": "select/pl_01_シンガーホープライター_moki.txt"
+    }
+  ]
+}
